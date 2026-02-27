@@ -98,6 +98,20 @@
 
 ---
 
+## 🎧 Vibe Check
+
+<p align="center">
+  <a href="https://open.spotify.com/user/51or67vlf0ecyqs2asg79vwam">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d0d0d&border_color=ff2e97&bar_color=ff69b4" width="400" alt="spotify"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>🧃 not listening? probably restocking on mogu mogu :3</sub>
+</p>
+
+---
+
 ## 🙋‍♀️ Let’s Connect
 
 <p align="center">
@@ -113,7 +127,3 @@
 </p>
 
 ---
-
-<p align="center">
-Built in dark mode 🌑 | Powered by neon pink ⚡
-</p>
