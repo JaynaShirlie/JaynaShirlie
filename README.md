@@ -85,29 +85,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaynaShirlie&show_icons=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JaynaShirlie&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaynaShirlie&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=FF2E97&icon_color=FF2E97&text_color=ffffff&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JaynaShirlie&layout=compact&theme=radical&bg_color=0D0D0D&title_color=FF2E97&text_color=ffffff&hide_border=true&langs_count=8" height="180" alt="languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaynaShirlie&bg_color=0D0D0D&color=FF2E97&line=FF2E97&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-## 🎧 Vibe Check
-
-<p align="center">
-  <a href="https://open.spotify.com/user/51or67vlf0ecyqs2asg79vwam">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d0d0d&border_color=ff2e97&bar_color=ff69b4" width="400" alt="spotify"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>🧃 not listening? probably restocking on mogu mogu :3</sub>
 </p>
 
 ---
@@ -125,5 +108,3 @@
     <img src="https://img.shields.io/badge/Instagram-FF2E97?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
----
