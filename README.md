@@ -8,7 +8,7 @@
       <h1>hey, i'm jayna! 👩🏻‍💻💗</h1>
     </td>
     <td>
-      <sub><i><small>every coder runs on caffeine, but i'm built on mogu mogu :3</small></i></sub>
+      <sub><i><small>every coder runs on caffeine,<br>but i'm built on mogu mogu :3</small></i></sub>
     </td>
   </tr>
 </table>
