@@ -33,7 +33,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming Languages
+### 👉 programming languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF2E97"/>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=java&logoColor=FF2E97"/>
 </p>
 
-### 👉 Backend
+### 👉 backend 
 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=for-the-badge&logo=mongodb&logoColor=FF2E97"/>
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Supabase-0D0D0D?style=for-the-badge&logo=supabase&logoColor=FF2E97"/>
 </p>
 
-### 👉 Frontend
+### 👉 frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF2E97"/>
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF2E97"/>
 </p>
 
-### 👉 Tools & Platforms
+### 👉 tools & platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FF2E97"/>
@@ -76,13 +76,13 @@
 </p>
 
 ---
-## 🔥 Streak Stats
+## 🔥 Streak stats
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JaynaShirlie&theme=radical&background=0D0D0D&ring=FF2E97&fire=FF2E97&currStreakLabel=FF2E97" alt="JaynaShirlie" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaynaShirlie&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=FF2E97&icon_color=FF2E97&text_color=ffffff&hide_border=true" height="180" alt="stats" />
@@ -95,7 +95,7 @@
 
 ---
 
-## 🙋‍♀️ Let’s Connect
+## 🙋‍♀️ wanna connect? find me here ↓
 
 <p align="center">
   <a href="mailto:jaynashirlie@gmail.com">
